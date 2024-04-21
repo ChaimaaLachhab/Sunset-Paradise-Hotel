@@ -4,7 +4,7 @@ import java.sql.*;
 
 public class DatabaseManager {
     
-    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/Hotel";
+    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/HotelSunSet";
     private static final String USERNAME = "root";
     private static final String PASSWORD = "1234";
 
